@@ -14,7 +14,6 @@ const Final = () => {
         start: 'top 90%',
         end: 'bottom 80%',
         scrub: true,
-        markers: true,
       },
     });
 
