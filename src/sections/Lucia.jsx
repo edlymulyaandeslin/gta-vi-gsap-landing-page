@@ -44,7 +44,7 @@ const Lucia = () => {
         </div>
       </div>
 
-      <div className="lg:w-1/1 lucia-life-content">
+      <div className="lg:w-1/2 lucia-life-content">
         <div className="max-w-xl lg:ps-32 ps-10">
           <h1>Lucia Caminos</h1>
           <h2>Lucia’s father taught her to fight as soon as she could walk.</h2>
