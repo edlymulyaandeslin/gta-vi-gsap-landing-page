@@ -3,6 +3,7 @@ import { ScrollTrigger } from 'gsap/all';
 import FirstVideo from './sections/FirstVideo';
 import Hero from './sections/Hero';
 import Jason from './sections/Jason';
+import Lucia from './sections/Lucia';
 import Navbar from './sections/Navbar';
 import SecondVideo from './sections/SecondVideo';
 
@@ -19,7 +20,7 @@ const App = () => {
       <Jason />
 
       <SecondVideo />
-      {/* <Lucia/> */}
+      <Lucia />
     </main>
   );
 };
